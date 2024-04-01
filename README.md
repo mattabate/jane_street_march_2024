@@ -4,13 +4,13 @@ This repository contains a Python solution to the Jane Street Puzzle of March 20
 
 Before reading further, you should consider attempting the puzzle yourself, and thinking about the rules.
 
-Puzzle Link: [Jane Street Puzzles - Hooks 10](https://www.janestreet.com/puzzles/hooks-10/)
+Puzzle Link: [Jane Street Puzzles - Hooks 10](https://www.janestreet.com/puzzles/hooks-10-index/)
 
 ## Puzzle Rules Overview
 
 The "Hooks 10" puzzle requires solvers to partition a 9x9 grid into nine L-shaped regions. The solver must then place nine 9’s in one of the regions, eight 8’s in another, seven 7’s in another, and so on. Certain specific cells in the grid also impose sum constraints on adjacent cells, and the filled squares must form an orthogonally connected region. The puzzle's ultimate solution is an integer derived by multiplying specific values once all L-shaped regions are fully populated.
 
-For detailed rules and the puzzle board, refer to the [Jane Street link](https://www.janestreet.com/puzzles/hooks-10/) provided above.
+For detailed rules and the puzzle board, refer to the [Jane Street link](https://www.janestreet.com/puzzles/hooks-10-index/) provided above.
 
 ## Solution Approach
 
